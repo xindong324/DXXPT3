@@ -1,0 +1,11 @@
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\bin\Release\Telnet.exe.config
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\bin\Release\Telnet.xml
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\bin\Release\Telnet.exe
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\bin\Release\Telnet.pdb
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.csprojResolveAssemblyReference.cache
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.frmAbout.resources
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.frmTelnet.resources
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.Properties.Resources.resources
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.csproj.GenerateResource.Cache
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.exe
+D:\BUAA\learning\2017\串口\DXXPT3\Telnet CustomButton\obj\Release\Telnet.pdb
